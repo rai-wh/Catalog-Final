@@ -1,0 +1,28 @@
+.page-wrapper {
+  pointer-events: auto;
+  width: 100%;
+  background-color: #fff0f0;
+  max-width: 800px;
+}
+.page-wrapper > section:first-of-type {
+  margin-top: 0;
+}
+.page-wrapper > section:last-of-type {
+  padding-bottom: 85px;
+}
+
+@media (max-width: 1199px) {
+  .page-wrapper {
+    margin: 0 auto;
+  }
+
+  .page-wrapper > section:last-of-type {
+    padding-bottom: 55px;
+  }
+}
+
+@media (max-width: 767px) {
+  .page-wrapper {
+    margin-top: 48px;
+  }
+}

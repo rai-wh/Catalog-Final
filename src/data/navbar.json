@@ -1,0 +1,35 @@
+{
+  "homeLink": {
+    "to": "/",
+    "text": "notes"
+  },
+
+  "navLinks": [
+    {
+      "to": "home",
+      "text": "Home"
+    },
+    {
+      "to": "notes",
+      "text": "Notes"
+    },
+    {
+      "to": "login",
+      "text": "Login"
+    },
+    {
+      "to": "contact",
+      "text": "Contact"
+    }
+  ],
+  "footLinks": [
+    {
+      "to": "#",
+      "text": "LINKEDIN"
+    },
+    {
+      "to": "#",
+      "text": "GITHUB"
+    }
+  ]
+}

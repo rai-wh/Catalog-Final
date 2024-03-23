@@ -1,0 +1,43 @@
+{
+  "title": "SERVICES",
+  "description": "Lorem ipsum dolor sit amet consectetu adipiscing elit viverra tristique placerat",
+  "paragraphes": [
+    "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Viverra tristique placerat in sat massa consectetur quisque. Nunc aces fames lectus in libero aliquet ertare feraso est lorem nunc dolor sit amet settera aces volutpat in voltare lupar est phasellus.",
+    "Faucibus sed tristique fames sed aliquet ultricies eget viverra arcu. Vitae faucibus diam consequat aecenas. Turpis metus sit diam purus leo in varius ac quam. Nunc amet tristique set volutpat [estars adipiscing](#) vulputate est phasellus. Volutpat faucibus per praesent aced nuncare voltare per settera lorem ipsum dolor."
+  ],
+  "servicesLinks": [
+    {
+      "to": "#",
+      "text": "DOWNLOAD CV"
+    },
+    {
+      "to": "#",
+      "text": "MY PORTFOLIO"
+    }
+  ],
+  "servicesBoxes": [
+    {
+      "imageAltText": "serv icon",
+      "servTitle": "DESIGN",
+      "servDesc": "A full stack allaround designer that may or may not include aguide for specific createive"
+    },
+    {
+      "imageAltText": "serv icon",
+
+      "servTitle": "DEVELOP",
+      "servDesc": "Tellus pharetra erat tristique erat donec dignissim etiam sed malesuada enim sodales"
+    },
+    {
+      "imageAltText": "serv icon",
+
+      "servTitle": "WRITE",
+      "servDesc": "A full stack allaround designer that may or may not include a guide for specific createive"
+    },
+    {
+      "imageAltText": "serv icon",
+
+      "servTitle": "PROMOTE",
+      "servDesc": "Tellus pharetra erat tristique erat donec dignissim etiam sed malesuada enim sodales"
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "title": "PORTFOLIO",
+
+  "description": "I've put a list of my favorite projects I've worked on below and hope that you'll find the time to check some of them out.",
+
+  "portfolioItems": [
+    {
+      "gridSize": "p-one",
+      "action": {
+        "type": "popup",
+        "number": 1
+      },
+      "description": {
+        "text": "DriveWithWestern",
+        "caption": "External website for my previous employer developed by me."
+      }
+    },
+    {
+      "gridSize": "p-one-half",
+      "action": {
+        "type": "item",
+        "number": 2
+      },
+      "description": {
+        "text": "LanguageLibrary",
+        "caption": "Japanese-based language learning application that implements DeepL's API."
+      }
+    },
+    {
+      "gridSize": "p-one-half",
+      "action": {
+        "type": "item",
+        "number": 3
+      },
+      "description": {
+        "text": "HotSpot",
+        "caption": "Capstone project to determine average time of common routes that the user takes, predicting the fastest one each time."
+      }
+    },
+    {
+      "gridSize": "p-one-half",
+      "action": {
+        "type": "popup",
+        "number": 1
+      },
+      "description": {
+        "text": "The Lore Store",
+        "caption": "Group project developed in my bootcamp. Mock-ecommerce website."
+      }
+    }
+  ]
+}

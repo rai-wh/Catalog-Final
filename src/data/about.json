@@ -1,0 +1,29 @@
+{
+  "title": "ABOUT",
+  "description": "Hi, my names Rai and I'm a software engineer.",
+  "paragraphe1": "I'm 24 years old and I decided to make a visual portfolio listing off my accomplishments as its way more appealing than the thousands of resumes seen before. I'm qualified with 2 years of professional experience with a mid-level range of programming languages. I've led multiple development groups as well as real-world work departments, managing all software-related concerns.",
+  "aboutInfo": [
+    {
+      "title": "EMAIL",
+      "link": {
+        "to": "mailto:raistrelaa@gmail.com",
+        "text": "@rai"
+      }
+    },
+    {
+      "title": "ROLE",
+      "text": "Junior Full-Stack Developer"
+    },
+    {
+      "title": "PHONE",
+      "link": {
+        "to": "tel:+16159203474",
+        "text": "(+1) 615 920 3474"
+      }
+    }
+  ],
+  "paragraphes": [
+    "I graduated from Montgomery Bell Academy in Nashville, TN in 2017 and struggled to find something that truly interested me after completing high school. This changed a couple years later when I was referred to Nashville Software School by a friend and decided to take the risk. I fell in love with software development, specifically web, and haven't regretted it since.",
+    "I was lucky enough to land a job before graduation, but as we all know tech is a field filled with layoffs, and I was unfortunately hit by them as well. However, I didn't want to sit and do nothing while endlessly applying for a new job, so I decided to develop this portfolio as a fun side project that can also help me in my job search."
+  ]
+}
